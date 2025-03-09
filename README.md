@@ -24,4 +24,4 @@ I also regularly build small projects to refine my skills.
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/siffat-ullah](https://linkedin.com/in/siffat-ullah)
-- **Email:** siffatkhan.321@gmail.com
+- **Email:** siffatullah.321@gmail.com
