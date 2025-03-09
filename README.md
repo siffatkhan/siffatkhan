@@ -1,12 +1,5 @@
 # Hi there, I'm Siffat Ullah! 👋  
 
-🚀 Passionate guy about Web Development & AI  
-💻 Currently learning Backend Development (Node.js & Express.js)  
-🎯 Exploring Cloud, DevOps & Blockchain 
-
-
-# Hi there! 👋 I'm Siffat Ullah
-
 ### 👨‍💻 About Me
 I am a **Computer Science student** (4th semester) at the **Institute of Management Sciences, Peshawar (2023-2027).** Passionate about software development, I specialize in both **backend and frontend** development, constantly improving my skills through projects and learning new technologies.
 
@@ -27,7 +20,7 @@ A **Java OOP (JavaFX) project** simulating a voting system where users can:
 I also regularly build small projects to refine my skills.
 
 ### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siffat-Ullah&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siffatkhan&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/siffat-ullah](https://linkedin.com/in/siffat-ullah)
