@@ -5,7 +5,7 @@ I am a **Computer Science student** (4th semester) at the **Institute of Managem
 
 ### 🚀 Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, Python
 - **Databases:** PostgreSQL, SQL
 - **Version Control:** Git, GitHub
 - **Languages:** Java, Python, JavaScript
